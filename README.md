@@ -119,6 +119,5 @@ AND YEAR(racedate) = 2023;
 - **ER Models**: Understanding of database design using ER models.
 - **Normalization**: Understanding and applying the principles of normalization up to 3NF to ensure data integrity.
 - **SQL**: Writing SQL queries to perform data insertion, retrieval, and analysis effectively.
-test
 
 
